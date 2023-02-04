@@ -5,9 +5,11 @@
           
 
 ### Opa! Pode me chamar de Bonifácio 👻
+### Hello! Call me Bonifácio 👻
 
-Tenho *16 anos* e sou um dev. em Python, aprendendo várias técnologias novas a todo momento, meu foco atual é Flask e desenvolvimento Web!
-gosto muito de HTML E CSS também! Tendo certa afinidade com essas techs!
+Tenho *16 anos* e sou um dev. em C# (no qual estou fazendo um curso) e Python , aprendendo várias técnologias novas a todo momento, meu foco atual é C# e todas técnologias do universo .NET!
+
+I'm 16 years old and I'm a C# developer (in development hahaha).
 
 
 <a href="https://www.linkedin.com/in/pedro-bonifácio-9869a9263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
