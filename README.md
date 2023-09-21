@@ -7,9 +7,9 @@
 ### Opa! Pode me chamar de Bonifácio 👻
 ### Hello! Call me Bonifácio 👻
 
-Tenho *16 anos* e sou um dev. em C# (no qual estou fazendo um curso) e Python , aprendendo várias técnologias novas a todo momento, meu foco atual é C# e todas técnologias do universo .NET!
+Tenho *17 anos* e sou um dev. em C# e Python , aprendendo várias técnologias novas a todo momento, meu foco atual é C# e todas técnologias do universo .NET!
 
-I'm 16 years old and I'm a C# developer (in development hahaha).
+I'm 17 years old and I'm a C# developer (in development hahaha).
 
 
 <a href="https://www.linkedin.com/in/pedro-bonifácio-9869a9263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
