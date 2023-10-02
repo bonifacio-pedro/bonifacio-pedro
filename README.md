@@ -7,7 +7,7 @@
 ### Opa! Pode me chamar de Bonifácio 👻
 ### Hello! Call me Bonifácio 👻
 
-Tenho *17 anos* e sou um dev. em C# e Python , aprendendo várias técnologias novas a todo momento, meu foco atual é C# e todas técnologias do universo .NET!
+Tenho *17 anos* e sou um dev. em C# e Ruby , aprendendo várias técnologias novas a todo momento, meu foco atual é Rails e tecnologias .NET!
 
 I'm 17 years old and I'm a C# developer (in development hahaha).
 
