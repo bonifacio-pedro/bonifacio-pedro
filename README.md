@@ -6,7 +6,7 @@
 ### Opa! Pode me chamar de Bonifácio 👻
 ### Hello! Call me Bonifácio 👻
 
-Tenho *17 anos* e sou um dev. em Python (as vezes brinco em .NET) , aprendendo várias técnologias novas a todo momento, meu foco atual é o estudo de Data Science com Python!
+Tenho *17 anos* e sou um dev. em Python (as vezes brinco em .NET) , aprendendo várias técnologias novas a todo momento, meu foco atual é o estudo de FrontEnd!
 
 I'm 17 years old and I'm a Python/Aws developer (in development hahaha).
 
