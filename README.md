@@ -7,7 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Rosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rosa-9869a9263/)
 [![Gmail](https://img.shields.io/badge/-pedrorosa.rb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrorosa.rb@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://seu-username.github.io)
 
 </div>
 
