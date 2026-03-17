@@ -59,35 +59,17 @@ vibe: "🎶 Rap enthusiast | 💻 Code craftsman | 🔧 Hardware tinkerer"
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonifacio-pedro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonifacio-pedro&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bonifacio-pedro&theme=radical&hide_border=true)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [Pedro Rosa](https://www.linkedin.com/in/pedro-rosa-9869a9263/)
-- 📧 **Email:** pedrorosa.rb@gmail.com
+- 📧 **Email:** pedrorosa10@edu.unisinos.br
 - 🐙 **GitHub:** You're already here! 👀
 
 ---
 
 <div align="center">
-
-### 🎶 "Started from backend, now we're here... in automotive!" 🏎️
-
-*When I'm not coding, you'll find me:*  
-🎵 Listening to rap | 🏎️ Watching F1 | 🔧 Building hardware projects | 📚 Reading SAE papers
-
 **⭐ If you find my work interesting, consider giving it a star!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=blueviolet&style=flat-square&label=Profile+Views)
