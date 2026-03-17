@@ -2,8 +2,7 @@
   
 # 👋 Hey, I'm Pedro Rosa
 
-**Software Engineer → Automotive Embedded Systems**  
-*Building the bridge between backend expertise and motorsport technology*
+**Software Engineer**  
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Rosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rosa-9869a9263/)
 [![Gmail](https://img.shields.io/badge/-pedrorosa.rb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrorosa.rb@gmail.com)
@@ -18,21 +17,9 @@ const pedro = {
 location: "Canoas, RS 🇧🇷",
 education: "Computer Engineering @ Unisinos (2nd semester)",
 current_role: "Software Analyst @ PonteTech",
-passion: "🏎️ Motorsport Technology & Automotive Software",
-goal: "Embedded Systems Engineer in Automotive Industry",
-side_quest: "Formula SAE team member (soon)",
 vibe: "🎶 Rap enthusiast | 💻 Code craftsman | 🔧 Hardware tinkerer"
 };
 ```
-
-### 🚀 Current Mission
-Transitioning from **backend/cloud development** to **automotive embedded systems**, combining 2 years of software engineering experience with intensive self-study in:
-- 🔩 Embedded C/C++ programming
-- 🚗 Vehicle telemetry & data analysis
-- 📡 CAN Bus protocols (ISO 11898, J1939)
-- 🎮 Arduino & sensor integration
-- 📊 MATLAB/Simulink simulations
-
 ---
 
 ## 🛠️ Tech Stack
@@ -58,7 +45,7 @@ Transitioning from **backend/cloud development** to **automotive embedded system
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Automotive & Embedded (Learning & Building)
+### Embedded 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
